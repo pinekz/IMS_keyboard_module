@@ -1,1 +1,1 @@
-# IMS-Internationalized-Multi-Shift-keyboard-module
+# IMS ( Internationalized Multi Shift ) keyboardmodule
