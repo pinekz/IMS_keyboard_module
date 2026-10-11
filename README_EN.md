@@ -1,6 +1,6 @@
 # IMS (国際化マルチシフト)キーボード
 
-[readme_日本語](https://github.com/pinekz/IMS_keyboard_module/blob/main/README.md)  
+[readme_日本語](README.md)  
 
 ver. 2.5 : 2026/10/10 - State machine implementation and process organization  
 ver. 2.0 : 2026/07/26 - QMK 0.33.0  
