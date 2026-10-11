@@ -2,7 +2,7 @@
 
 [readme_日本語](README.md)  
 
-ver. 2.5 : 2026/10/10 - State machine implementation for main part and process organization  
+ver. 2.5 : 2026/10/10 - State machine implementation for the main part and process organization  
 ver. 2.0 : 2026/07/26 - QMK 0.33.0  
 ver. 1.0 : 2026/06/26 - QMK 0.27.0  
 
