@@ -1,4 +1,4 @@
-# IMS (国際化マルチシフト)キーボード
+# IMS (国際化マルチシフト) キーボード・モジュール
 
 [readme_ENGLISH](README_EN.md)  
 
