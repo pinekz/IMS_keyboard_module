@@ -2,9 +2,9 @@
 
 [readme_ENGLISH](README_EN.md)  
 
-ver. 2.5 :2026/10/10 主要部の state machine 化とプロセスの整理  
-ver. 2.0 :2026/07/26 QMK 0.33.0  
-ver. 1.0 :2026/06/26 QMK 0.27.0  
+ver. 2.5 : 2026/10/10 主要部の state machine 化とプロセスの整理  
+ver. 2.0 : 2026/07/26 QMK 0.33.0  
+ver. 1.0 : 2026/06/26 QMK 0.27.0  
 
 <img width="1920" height="1440" alt="Aatreus" src="https://github.com/user-attachments/assets/1b391ce7-3524-44e8-8ec8-26d49f49ba2e" />
 
