@@ -1,6 +1,6 @@
 # IMS (国際化マルチシフト)キーボード
 
-[readme_EN](https://github.com/pinekz/qmk_firmware/blob/IMS-module/keyboards/ymdk/ymd40/air40/keymaps/via_ims_air40/readme_IMS_en.md)  
+[readme_ENGLISH](https://github.com/pinekz/qmk_firmware/blob/IMS-module/keyboards/ymdk/ymd40/air40/keymaps/via_ims_air40/readme_IMS_en.md)  
 
 ver. 2.5 :2026/10/10 主要部の state machine 化とプロセスの整理  
 ver. 2.0 :2026/07/26 QMK 0.33.0  
@@ -28,3 +28,8 @@ ver. 1.0 :2026/06/26 QMK 0.27.0
 2. 同時押しキーを自由に配置することで、事故で親指を欠損した場合でも他の指で代替することが可能です。
    (親指シフトに限定されない日本語入力システムを構築可能です)
 3. 固有言語部分を `language.c` と header に独立させて、開発の効率化を図っています。
+
+## 実装済み キーボード
+
+[YMDK Air40](https://github.com/pinekz/qmk_firmware/tree/IMS-module/keyboards/ymdk/ymd40/air40/keymaps/via_ims_air40)  
+[Keyboardio Atreus](https://github.com/pinekz/qmk_firmware/tree/IMS-module/keyboards/keyboardio/atreus/keymaps/via_ims_Atreus)  
