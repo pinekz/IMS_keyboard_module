@@ -1,12 +1,11 @@
-# IMS (Internationalized Multi Shift) keyboard module
+# IMS (国際化マルチシフト)キーボード
 
-[readme_日本語](README.md)  
+[readme_日本語](https://github.com/pinekz/IMS_keyboard_module/blob/main/README.md)  
 
-ver. 2.5 : 2026/10/10 - State machine implementation for the main part and process organization  
+ver. 2.6 : 2026/10/18 - Enabled layer shifting while holding the thumb-shift key.
+ver. 2.5 : 2026/10/10 - State machine implementation and process organization  
 ver. 2.0 : 2026/07/26 - QMK 0.33.0  
 ver. 1.0 : 2026/06/26 - QMK 0.27.0  
-
-<img width="1920" height="1440" alt="Aatreus" src="https://github.com/user-attachments/assets/1b391ce7-3524-44e8-8ec8-26d49f49ba2e" />
 
 This is a module for Japanese "Kana" input based on QMK and Via.
 It evolves the "Thumb Shift" input environment for natural Japanese typing, while providing a system that allows for free character placement using Via.
