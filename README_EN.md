@@ -1,4 +1,4 @@
-# IMS (国際化マルチシフト)キーボード
+# IMS (Internationalized Multi Shift) keyboard
 
 [readme_日本語](https://github.com/pinekz/IMS_keyboard_module/blob/main/README.md)  
 
