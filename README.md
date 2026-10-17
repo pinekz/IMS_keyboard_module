@@ -1,6 +1,6 @@
 # IMS (国際化マルチシフト)キーボード
 
-[readme_ENGLISH](readme_EN.md)  
+[readme_ENGLISH](README_EN.md)  
 
 ver. 2.6 :2026/10/18 親指キー押しっぱなしでの連続シフト機能の導入  
 ver. 2.5 :2026/10/10 主要部の state machine 化とプロセスの整理  
