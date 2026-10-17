@@ -7,6 +7,8 @@ ver. 2.5 : 2026/10/10 - State machine implementation and process organization
 ver. 2.0 : 2026/07/26 - QMK 0.33.0  
 ver. 1.0 : 2026/06/26 - QMK 0.27.0  
 
+<img width="1920" height="1440" alt="Aatreus" src="https://github.com/user-attachments/assets/1b391ce7-3524-44e8-8ec8-26d49f49ba2e" />
+
 This is a module for Japanese "Kana" input based on QMK and Via.
 It evolves the "Thumb Shift" input environment for natural Japanese typing, while providing a system that allows for free character placement using Via.
 By allowing users to freely select and add shift keys to expand input layers, it provides a unique shift input system that is not limited to "Thumb Shift" alone.
