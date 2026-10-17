@@ -1,6 +1,6 @@
 # IMS (国際化マルチシフト)キーボード
 
-[readme_ENGLISH](https://github.com/pinekz/qmk_firmware/blob/IMS-module/keyboards/ymdk/ymd40/air40/keymaps/via_ims_air40/readme_IMS_en.md)  
+[readme_ENGLISH](readme_EN.md)  
 
 ver. 2.6 :2026/10/18 親指キー押しっぱなしでの連続シフト機能の導入  
 ver. 2.5 :2026/10/10 主要部の state machine 化とプロセスの整理  
