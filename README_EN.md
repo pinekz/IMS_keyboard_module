@@ -34,3 +34,8 @@ By allowing users to freely select and add shift keys to expand input layers, it
 
 [YMDK Air40](https://github.com/pinekz/qmk_firmware/tree/IMS-module/keyboards/ymdk/ymd40/air40/keymaps/via_ims_air40)  
 [Keyboardio Atreus](https://github.com/pinekz/qmk_firmware/tree/IMS-module/keyboards/keyboardio/atreus/keymaps/via_ims_Atreus)  
+
+## VIA Configuration  
+
+<img width="1651" height="1987" alt="Layers" src="https://github.com/user-attachments/assets/871d6435-fa0b-49d3-bcbb-0cbf0bfe5ce7" />
+
