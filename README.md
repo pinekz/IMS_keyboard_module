@@ -40,3 +40,6 @@ ver. 1.0 :2026/06/26 QMK 0.27.0
 
 <img width="1651" height="1987" alt="Layers" src="https://github.com/user-attachments/assets/bf74c973-4bfc-449c-b858-8cea394d3aca" />
 
+## lamguage.c スクリーンショット  
+
+<img width="679" height="1012" alt="language_c" src="https://github.com/user-attachments/assets/de25b5a4-c216-4bb8-a1e5-c025b83458b2" />
