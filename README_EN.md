@@ -39,3 +39,6 @@ By allowing users to freely select and add shift keys to expand input layers, it
 
 <img width="1651" height="1987" alt="Layers" src="https://github.com/user-attachments/assets/871d6435-fa0b-49d3-bcbb-0cbf0bfe5ce7" />
 
+## language.c Screen shot  
+
+<img width="679" height="1012" alt="language_c" src="https://github.com/user-attachments/assets/de25b5a4-c216-4bb8-a1e5-c025b83458b2" />
